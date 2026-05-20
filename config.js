@@ -1,0 +1,3 @@
+// config.js - Keep this file private
+export const SUPABASE_URL = 'https://jzrficgbbhchcsainyfx.supabase.co'
+export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp6cmZpY2diYmhjaHNhaW55ZnhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxMDA0MTgsImV4cCI6MjA5NDY3NjQxOH0.AzDDDdL3n5GrbMQyeleuFs7FH0v27Fv4MGwiuzL2990'
